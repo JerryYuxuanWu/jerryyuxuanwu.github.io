@@ -217,7 +217,7 @@ for the year variable because the rock and pop music in our data set have signif
 
 Considering these factors, we chose not to include year as a predictor variable due to the imbalance between
 the two groups and its ability to affect the propensities.
-![Figure5](https://drive.google.com/uc?export=view&scale.option=fit&id=15DTAk8bXy1muekAKuclLiHCBk_gn_)
+![Figure5](https://drive.google.com/uc?export=view&scale.option=fit&id=15DTAk8bXy1muekAKuclLiHCBk_gn_-c-)
 
 # Methods
 To analyse the difference between rock music and pop music, we have utilized the statistical method of
