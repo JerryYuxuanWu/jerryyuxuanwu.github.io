@@ -3,7 +3,7 @@ date: '2023-04-17T11:50:54.000Z'
 title: >-
   Predicting traffic accident severity and the effect of Cannabis legalization,
   A machine learning approach
-tagline: 'Course Project for ECO480, ML for Economists'
+tagline: 'Course Project for ECO480 with Professor Clément Gorin, ML for Economists'
 preview: >-
   17.6% of fatal traffic accidents were due to impaired drivers in Canada, how
   is this affected following the legalization of recreational cannabis since
